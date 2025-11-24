@@ -2,7 +2,7 @@
 
 Professional portfolio website for Rohit Kamra - Data Scientist specializing in GenAI and Machine Learning.
 
-🌐 **Live Demo**: [Add your deployed URL here]
+🌐 **Live Demo**: rohitkamra.github.io
 
 ## Features
 
@@ -57,10 +57,7 @@ Deploy to:
 
 ## Contact
 
-- **Email**: rohitkamra121@gmail.com
 - **LinkedIn**: [linkedin.com/in/rohitkamra](https://www.linkedin.com/in/rohitkamra/)
-- **GitHub**: [github.com/rohitkamra](https://github.com/rohitkamra)
-- **Topmate**: [topmate.io/rohitkamra](https://topmate.io/rohitkamra)
 
 ## License
 
