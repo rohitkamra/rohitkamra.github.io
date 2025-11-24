@@ -2,7 +2,7 @@
 
 Professional portfolio website for Rohit Kamra - Data Scientist specializing in GenAI and Machine Learning.
 
-🌐 **Live Demo**: rohitkamra.github.io
+🌐 **Live Demo**: [rohitkamra.github.io](https://rohitkamra.github.io/)
 
 ## Features
 
