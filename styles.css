@@ -33,7 +33,7 @@ body {
     left: 0;
     width: 100%;
     z-index: 1000;
-    background: rgba(10, 10, 10, 0.6);
+    background: rgba(10, 10, 10, 0.4);
     backdrop-filter: blur(10px);
     border-bottom: 1px solid var(--card-border);
 }
@@ -41,10 +41,11 @@ body {
 .nav-container {
     max-width: 1400px;
     margin: 0 auto;
-    padding: 1.2rem 3rem;
+    padding: 1rem 3rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    transition: all 0.3s ease;
 }
 
 .logo {
@@ -87,12 +88,12 @@ body {
 
 /* Main Content */
 .main-content {
-    padding-top: 80px;
+    padding-top: 1px;
 }
 
 /* Hero Section */
 .hero-section {
-    padding: 4rem 3rem 6rem;
+    padding: 7rem 3rem 4rem;
     max-width: 1400px;
     margin: 0 auto;
 }
@@ -824,7 +825,7 @@ body {
 
 /* Footer Section */
 .footer-section {
-    padding: 4rem 3rem;
+    padding: 3rem 3rem 2rem;
     background: rgba(255, 215, 0, 0.01);
     border-top: 1px solid var(--card-border);
 }
@@ -838,7 +839,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     gap: 4rem;
 }
 
@@ -891,7 +892,7 @@ body {
 
 .footer-bottom {
     text-align: center;
-    padding-top: 2rem;
+    padding-top: 1.5rem;
     border-top: 1px solid var(--card-border);
 }
 
