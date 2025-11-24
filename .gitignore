@@ -1,5 +1,6 @@
-# Ignore data folder (contains personal images)
-data/
+# Ignore data folder except image.png
+data/*
+!data/image.png
 
 # OS files
 .DS_Store
